@@ -342,10 +342,14 @@ OFF  SZ   TYPE DESCRIPTION               VALUE
 
 
 
-> **本文参考链接**
->
-> [JUC并发编程](https://www.bilibili.com/video/BV16J411h7Rd?p=1) |  [markdown 画图](https://blog.csdn.net/whatday/article/details/88655461)  |  [DK8偏向锁](https://blog.csdn.net/shiyueshis/article/details/115477836)  |  [偏向锁论文](https://www.oracle.com/technetwork/java/biasedlocking-oopsla2006-wp-149958.pdf)
->
-> [死磕Synchronized底层实现](https://github.com/farmerjohngit/myblog/issues/12)  |  [盘一盘 synchronized （一）](https://www.cnblogs.com/LemonFive/p/11246086.html) |  [盘一盘 synchronized （二）](https://www.cnblogs.com/LemonFive/p/11248248.html)
->
-> [为什么要用JMH](https://www.zhihu.com/question/276455629)
+------
+
+
+
+**本文参考链接**
+
+[JUC并发编程](https://www.bilibili.com/video/BV16J411h7Rd?p=1) |  [markdown 画图](https://blog.csdn.net/whatday/article/details/88655461)  |  [DK8偏向锁](https://blog.csdn.net/shiyueshis/article/details/115477836)  |  [偏向锁论文](https://www.oracle.com/technetwork/java/biasedlocking-oopsla2006-wp-149958.pdf)
+
+[死磕Synchronized底层实现](https://github.com/farmerjohngit/myblog/issues/12)  |  [盘一盘 synchronized （一）](https://www.cnblogs.com/LemonFive/p/11246086.html) |  [盘一盘 synchronized （二）](https://www.cnblogs.com/LemonFive/p/11248248.html)
+
+[为什么要用JMH](https://www.zhihu.com/question/276455629)

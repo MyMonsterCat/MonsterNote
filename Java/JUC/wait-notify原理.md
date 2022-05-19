@@ -325,8 +325,11 @@ synchronized(lock) {
 
 
 
+------
 
-> **本文参考链接**
->
-> [JUC并发编程](https://www.bilibili.com/video/BV16J411h7Rd?p=1)
+
+
+**本文参考链接**
+
+[JUC并发编程](https://www.bilibili.com/video/BV16J411h7Rd?p=1)
 

@@ -306,17 +306,15 @@ SourceFile: "MonitorTest.java"
     flags: ACC_PUBLIC, ACC_STATIC, ACC_SYNCHRONIZED
 ```
 
-不难发现，确实添加了ACC_SYNCHRONIZED标记。至于javap -c 与javap -verbose的区别详见：[javap的使用]([javap的使用 - 慕尘 - 博客园 (cnblogs.com)](https://www.cnblogs.com/baby123/p/10756614.html))
+不难发现，确实添加了ACC_SYNCHRONIZED标记。至于javap -c 与javap -verbose的区别详见：[javap的使用](https://www.cnblogs.com/baby123/p/10756614.html)
 
 
 
 ------
 
+**本文参考链接**
 
+​	[JUC并发编程](https://www.bilibili.com/video/BV16J411h7Rd?p=1) |  [javap的使用](https://www.cnblogs.com/baby123/p/10756614.html)  |  [synchronized使用与字节码说明](https://blog.csdn.net/u010606397/article/details/109243630)
 
-> **本文参考链接**
->
-> [JUC并发编程](https://www.bilibili.com/video/BV16J411h7Rd?p=1) |  [javap的使用]([javap的使用 - 慕尘 - 博客园 (cnblogs.com)](https://www.cnblogs.com/baby123/p/10756614.html))  |  [synchronized使用与字节码说明](https://blog.csdn.net/u010606397/article/details/109243630)
->
-> [3种骚操作，教你查看 Java 字节码](https://zhuanlan.zhihu.com/p/287971103)  |  [markdown画图](https://blog.csdn.net/lis_12/article/details/80693975)
+​	[3种骚操作，教你查看 Java 字节码](https://zhuanlan.zhihu.com/p/287971103)  |  [markdown画图](https://blog.csdn.net/lis_12/article/details/80693975)
 
