@@ -18,12 +18,14 @@
 
 
 - **【一】JUC**
+  - **相关书籍**
+    - [深入浅出Java多线程](https://redspider.gitbook.io/concurrent/)
 
-  - [1 - monitor原理](./Java/JUC/monitor原理.md)
+  - **学习笔记**
+    - [1 - monitor原理](./Java/JUC/monitor原理.md)
+    - [2 - synchronized原理](./Java/JUC/synchronized原理.md)
+    - [3 - wait-notify原理](./Java/JUC/wait-notify原理.md)
 
-  - [2 - synchronized原理](./Java/JUC/synchronized原理.md)
-
-  - [3 - wait-notify原理](./Java/JUC/wait-notify原理.md)
 
 
 
