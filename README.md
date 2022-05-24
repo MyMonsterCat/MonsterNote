@@ -7,8 +7,6 @@
 
 # 🍵 编程语言
 
-
-
 ## ☕️ Java
 
 
@@ -44,8 +42,6 @@
 
 - **【一】Python 入门学习笔记**
   - 待更新
-
-------
 
 
 
@@ -85,7 +81,7 @@
 - [🎉 Gitflow工作流](./开发相关/工具/Gitflow.md)
 - [💭 Nginx使用指南](./开发相关/工具/Nginx.md)
 - 🔋 Maven常见问题
-  - [ import scope的理解](./开发相关/工具/maven中import scope的理解.md)
+  - [import scope的理解](./开发相关/工具/maven中importscope的理解.md)
 
 
 
