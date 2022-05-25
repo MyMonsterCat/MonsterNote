@@ -25,6 +25,9 @@
     - [1 - monitor原理](./Java/JUC/monitor原理.md)
     - [2 - synchronized原理](./Java/JUC/synchronized原理.md)
     - [3 - wait-notify原理](./Java/JUC/wait-notify原理.md)
+    - [4 - 保护性暂停](./Java/JUC/保护性暂停.md)
+    - [5 - 线程各状态之间的转换](./Java/JUC/线程各状态之间的转换.md)
+    - [6 - 多把锁与锁的活跃性](./Java/JUC/多把锁与锁的活跃性.md)
 - **【四】JVM进阶学习笔记**
   - 待更新
 - **【五】SpringCloud学习笔记**
